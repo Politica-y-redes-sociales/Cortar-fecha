@@ -2,7 +2,7 @@
 
 ## Funcionalidad
 
-
+Filtra los tweets por fechas especificas entregadas por un .csb llamado fechas.
 
 ## Como se Utiliza
 
